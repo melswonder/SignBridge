@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 def example_basic_types():
     a_int = 10
     b_float = 3.14
